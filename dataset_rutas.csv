@@ -1,0 +1,7 @@
+origen,destino,distancia_km,tipo_ruta
+Portal Norte,Héroes,4.5,larga
+Héroes,Calle 45,3.2,larga
+Calle 45,Calle 26,2.5,corta
+Calle 26,Calle 13,1.8,corta
+Calle 13,Bosa,5.6,larga
+Bosa,Portal Sur,4.0,larga
